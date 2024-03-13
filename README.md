@@ -6,13 +6,13 @@
 # Set-Up Guide
 Getting everything set up is not a trivial task. It might take a few hours if you aren't already comfortable with GitHub and VS Code. It's not the easiest thing on the planet, but the best things in life never are. :) This guide only covers Windows 10 and VS Code. For help, feel free to ask in the club's [Discord](https://discord.gg/Dw8dHZEDmu), contact an officer from the club, or contact Ashton Gibson in-person, [on GitHub](https://github.com/homeless-field), or on Discord (@pibto).
 ### The basic steps are:
-1. [Set Up GitHub](#set-up-github)
-2. [Set Up VS Code](#set-up-vs-code)
-3. [Set Up Android Studio](#set-up-android-studio)
-4. [Set Up GitHub Desktop](#set-up-github-desktop)
-5. [Clone the Demo Repository](#clone-the-demo-repository)
-6. [Enable the Flutter Extension](#enable-the-flutter-extension)
-7. [Run The Code](#run-the-code)
+1. [Set Up GitHub](###set-up-github)
+2. [Set Up VS Code](###set-up-vs-code)
+3. [Set Up Android Studio](###set-up-android-studio)
+4. [Set Up GitHub Desktop](###set-up-github-desktop)
+5. [Clone the Demo Repository](###clone-the-demo-repository)
+6. [Enable the Flutter Extension](###enable-the-flutter-extension)
+7. [Run The Code](###run-the-code)
 
 ### 1. Set Up GitHub
 The club uses GitHub to host the app's code, so the first thing you'll need to set up is an account. Visit [GitHub's sign-up page](https://github.com/signup) and follow the prompts. Congratulations! You've already completed the first step!
